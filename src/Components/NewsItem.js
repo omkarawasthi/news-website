@@ -1,5 +1,4 @@
 import React from 'react'
-import News from './News'
 
 function NewsItem(props){
     //let { title, description, imageUrl, newsUrl , date, publish} = props; //destructuring. you can do this also and by write onley variable name. 

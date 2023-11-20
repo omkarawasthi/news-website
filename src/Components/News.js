@@ -94,7 +94,6 @@ export default News;
 // Function Based Component
 import React, { useEffect, useState } from 'react'
 import NewsItem from './NewsItem';
-import PropTypes from 'prop-types'
 
 function News(props) {
   const [articles, setArticals] = useState([])
